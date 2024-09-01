@@ -1,0 +1,16 @@
+
+*** Step 1: 
+
+You need Jupyter Notebook installed in your computer. The best way is to install Anaconda:
+
+https://www.anaconda.com/products/individual
+
+
+*** Step 2: 
+
+Start the jupyter notebook: Hands-on_Activity_Reduction_ONOFF_Data.ipynb
+
+for example, type in the terminal:
+
+jupyter notebook Hands-on_Activity_Reduction_ONOFF_Data.ipynb
+
